@@ -1,0 +1,15 @@
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\obj\Debug\net9.0\LeetCode.Solutions.GeneratedMSBuildEditorConfig.editorconfig
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\obj\Debug\net9.0\LeetCode.Solutions.AssemblyInfoInputs.cache
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\obj\Debug\net9.0\LeetCode.Solutions.AssemblyInfo.cs
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\obj\Debug\net9.0\LeetCode.Solutions.csproj.CoreCompileInputs.cache
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\obj\Debug\net9.0\LeetCode.Solutions.sourcelink.json
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\bin\Debug\net9.0\LeetCode.Solutions.exe
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\bin\Debug\net9.0\LeetCode.Solutions.deps.json
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\bin\Debug\net9.0\LeetCode.Solutions.runtimeconfig.json
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\bin\Debug\net9.0\LeetCode.Solutions.dll
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\bin\Debug\net9.0\LeetCode.Solutions.pdb
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\obj\Debug\net9.0\LeetCode.Solutions.dll
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\obj\Debug\net9.0\refint\LeetCode.Solutions.dll
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\obj\Debug\net9.0\LeetCode.Solutions.pdb
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\obj\Debug\net9.0\LeetCode.Solutions.genruntimeconfig.cache
+I:\00_SoftwareDevopment\LeetCode\.Net\LeetCode.Solutions\obj\Debug\net9.0\ref\LeetCode.Solutions.dll
