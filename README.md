@@ -9,8 +9,9 @@ This repository contains solutions to various LeetCode problems implemented acro
 ## 📊 Repository Statistics
 
 - **Total JavaScript Solutions**: 43+ problems
+- **Total C# Solutions**: 5+ problems (Two Sum, Reverse String, Max Depth, Reverse List, Climbing Stairs)
 - **Languages Supported**: JavaScript, C#, Python
-- **Problem Categories**: Arrays, Strings, Dynamic Programming, Math, and more
+- **Problem Categories**: Arrays, Strings, Dynamic Programming, Math, Trees, LinkedLists, and more
 - **Difficulty Levels**: Easy, Medium, Hard
 
 ## 🗂️ Repository Structure
@@ -47,7 +48,20 @@ This repository contains solutions to various LeetCode problems implemented acro
 │   ├── 📂 Simulation/        # Algorithm simulation (1 problem)
 │   └── 📂 [Stack, Queue, Graph, Backtracking]/ # Ready for future problems
 │
-├── 📁 .Net/                   # C# solutions with structured architecture
+├── 📁 CSharp/                  # C# implementations with structured architecture 🆕
+│   ├── LeetCodeCSharp.sln     # Visual Studio solution
+│   ├── README.md              # Detailed C# project documentation
+│   ├── LeetCodeSolutions/     # Main solutions project
+│   │   ├── Arrays/           # Array problems (1 problem: Two Sum)
+│   │   ├── Strings/          # String problems (1 problem: Reverse String)
+│   │   ├── Trees/            # Tree problems (1 problem: Max Depth)
+│   │   ├── LinkedLists/      # Linked List problems (1 problem: Reverse List)
+│   │   ├── DynamicProgrammings/ # DP problems (1 problem: Climbing Stairs)
+│   │   ├── TestHelper.cs     # Testing utilities
+│   │   └── [12+ more categories ready for problems]
+│   └── .vscode/              # VS Code configuration
+│
+├── 📁 .Net/                   # Legacy C# solutions (if exists)
 │   ├── LeetCode.sln          # Visual Studio solution
 │   ├── LeetCode.Solutions/   # Main solutions project
 │   ├── LeetCode.Tests/       # Unit tests
