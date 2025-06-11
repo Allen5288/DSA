@@ -1,3 +1,4 @@
+/＊＊/
 var snakesAndLadders = function(board) {
     const n = board.length;
     
